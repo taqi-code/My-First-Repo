@@ -12,6 +12,6 @@
 - Build real-world projects
 - Learn AI & Machine Learning
 - Contribute to Open Source
-<>
+
 ## 📫 Contact
 Email: taqihaide15@gmail.com
