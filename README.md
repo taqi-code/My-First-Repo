@@ -3,15 +3,15 @@
 
 🎓 B.Tech Artificial Intelligence Student
 
-## 🌱 Currently Learning
+##  Currently Learning
 - C Programming
 - Data Structures & Algorithms
 - Git & GitHub
 
-## 🎯 Goals
+##  Goals
 - Build real-world projects
 - Learn AI & Machine Learning
 - Contribute to Open Source
 
-## 📫 Contact
+##  Contact
 Email: taqihaide15@gmail.com
