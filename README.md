@@ -14,4 +14,4 @@
 - Contribute to Open Source
 
 ##  Contact
-Email: taqihaide15@gmail.com
+Email : taqihaide15@gmail.com
